@@ -1,4 +1,22 @@
-# 👨‍💼 About Me | MasPanjul
+<style>
+.jabatan {
+   color: yellow;
+   font-family: cursive;
+}
+.keahlian {
+   color: white;
+   font-family: cursive;
+}
+</style>
+
+## 👨‍💼 <span class="jabatan">Tentang Saya</span>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Seorang <span class="jabatan">Sarjana Sistem Informasi</span> dengan semangat berkarier di bidang IT dan pengalaman kerja yang beragam. Pada tahun 2024, saya menjabat sebagai <span class="jabatan">Digital Marketing</span>, di mana saya menguasai <span class="keahlian">Meta Ads</span>, <span class="keahlian">WordPress</span>, dan `Canva` untuk mendukung strategi pemasaran digital. 
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;Sebelumnya, di tahun 2023, saya bekerja sebagai <span class="jabatan">3D Builder</span>, mengasah keahlian dalam `Blender`, `Lua`, serta `mengelola komunitas dengan efektif`. Awal perjalanan profesional saya dimulai sebagai <span class="jabatan">Stocker</span> pada tahun 2021, pengalaman yang memperkuat kemampuan saya dalam `mengelola inventaris`, `merapikan stok`, dan `menjaga ketersediaan produk`.
+
+> **Perpaduan pengalaman ini telah membentuk saya menjadi individu yang fleksibel, terampil, dan siap menghadapi tantangan baru di dunia kerja.**
+
 A graduate of Gunadarma University with a strong interest in pursuing a career as IT. Gained experience in developing secure and responsive websites while working at Umrahku.id. Enhanced troubleshooting abilities and attention to detail in addressing issues at Kelitih Studio. Currently focused on deepening knowledge in various IT fields, particularly in DevOps, as well as programming languages, cybersecurity, web development, and computer networking.
 
 **Languages `(Fluent in Indonesian · Upper Intermediate Proficiency in English)`**
