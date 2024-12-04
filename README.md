@@ -42,8 +42,8 @@
 
 <img align="left" alt="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/linux/linux-original.svg"/>
 <img align="left" alt="windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/windows8/windows8-original.svg"/>
-
 <br/>
+
 ### For additional information
 - [Participated in various workshops and earned certifications to enhance professional skills and expertise](https://rebrand.ly/gulpa-certifications)
 - [Developed a design portfolio showcasing creativity and dedication to producing high-quality work]()
