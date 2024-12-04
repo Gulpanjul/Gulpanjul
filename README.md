@@ -2,7 +2,7 @@
 <p align="center">Indonesia • English</p>
 
 ![](https://komarev.com/ghpvc/?username=Gulpanjul&color=brightgreen&style=flat-square&abbreviated=true)
-
+##
 <img align="right" src = "https://media1.tenor.com/m/2fXbn6Xtt0UAAAAd/software-software-development.gif"  height="300"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;I am a passionate <b>Information Systems</b> graduate with diverse work experience and a strong drive to build a career in IT. In 2024, I served as a <b>Digital Marketing Specialist</b>, mastering <b>Meta Ads</b>, <b>WordPress</b>, and <b>Canva</b> to support digital marketing strategies.
@@ -19,7 +19,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Gulpanjul?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+<br/>
 
 ## Core Competency 
 
@@ -43,7 +43,7 @@
 <img align="left" alt="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/linux/linux-original.svg"/>
 <img align="left" alt="windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/windows8/windows8-original.svg"/>
 
-#
+<br/>
 ### For additional information
 - [Participated in various workshops and earned certifications to enhance professional skills and expertise](https://rebrand.ly/gulpa-certifications)
 - [Developed a design portfolio showcasing creativity and dedication to producing high-quality work]()
